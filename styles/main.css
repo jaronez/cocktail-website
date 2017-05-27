@@ -1,0 +1,23 @@
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #4286f4;
+  text-align: center;
+}
+
+.panel-default > .panel-heading-background {
+background:#4286f4;
+color: white
+}
+
+body { 
+  background: url("../Images/Drinks.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
