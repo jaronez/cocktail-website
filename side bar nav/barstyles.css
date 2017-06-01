@@ -10,7 +10,7 @@ body{
 	height:100%;
 	display:block;
 	position:absolute;
-	right:200px;
+	right:-200px;
 	top:0px;
 	transition:left 0.3s linear;
 }
